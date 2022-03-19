@@ -1,0 +1,14 @@
+{
+  "name": "projeto-jokenpo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokenpo.js",
+  "scripts": {
+    "start": "node jokenpo"
+  },
+  "author": "Allan Labate",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
