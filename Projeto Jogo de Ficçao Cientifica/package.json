@@ -1,0 +1,14 @@
+{
+  "name": "jogo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jogo.js",
+  "scripts": {
+    "start": "node jogo"
+  },
+  "author": "Allan Labate",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
